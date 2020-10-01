@@ -1,3 +1,3 @@
-# mahima29.github.io
+# PersonalWebsite
 PERSONAL PORTFOLIO :
   My First Static Website 
